@@ -1,0 +1,22 @@
+{
+    "name":"Trixxed VRC Icons",
+    "id":"com.trx.vrcicons",
+    "url":"https://github.com/TrixxedBit/TRX-VRC_Menu_Icons/blob/main/source.json",
+    "author":{
+        "name":"TrixxedHeart",
+        "url":"https://trixxedheart.carrd.co/"
+    },
+    "description":"A pack of VRC Icons I've made",
+    "infoLink":{
+        "url":"https://github.com/TrixxedBit/TRX-VRC_Menu_Icons",
+        "text":"View on GitHub"
+    },
+    "packages":[
+        {
+            "name":"com.trx.vrcicons",
+            "releases":[
+                "https://github.com/TrixxedBit/TRX-VRC_Menu_Icons/releases/download/Release/VRC_Menu_Icons_by_Trixxed.zip",
+            ]
+        }
+    ]
+}
